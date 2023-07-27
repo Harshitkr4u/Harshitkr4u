@@ -1,4 +1,4 @@
-![logo](https://github.com/Harshitkr4u/Harshitkr/blob/main/Github%20Banner%20Harshit%20Kr.jpeg)
+![logo](https://github.com/Harshitkr4u/Harshitkr/blob/mainbranch/Github%20Banner%20Harshit%20Kr.jpeg)
 <h1 align="center">Hi 👋, I'm Harshit Kr</h1>
 <h3 align="center">My clients says "Best Digital Marketer in East Delhi" to me</h3>
 
