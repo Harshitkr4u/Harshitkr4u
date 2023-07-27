@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Kr</h1>
 <h3 align="center">My clients says "Best Digital Marketer in East Delhi" to me</h3>
 
-<img align="right" alt=harshitkrimage" width="400" src="https://harshitkr.com/wp-content/uploads/2022/07/laptop-working-man.png">
-
+<img align="right" alt="Working man using laptop" src="https://harshitkr.com/wp-content/uploads/2022/07/laptop-working-man.png" style="width: 400px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitkr4u&label=Profile%20views&color=0e75b6&style=flat" alt="harshitkr4u" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_harshitkr_" target="blank"><img src="https://img.shields.io/twitter/follow/_harshitkr_?logo=twitter&style=for-the-badge" alt="_harshitkr_" /></a> </p>
