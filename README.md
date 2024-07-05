@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit Kr</h1>
+<h1 align="center">Hi 👋, I'm Harshit Kr /h1>
 <h3 align="center">My clients says "Best Digital Marketer in East Delhi" to me</h3>
 
 <img align="right" alt="Working man using laptop" src="https://harshitkr.com/wp-content/uploads/2022/07/laptop-working-man.png" style="width: 400px;">
